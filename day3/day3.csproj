@@ -19,6 +19,8 @@
     <Compile Remove="03_example4.cs" />
     <Compile Remove="03_example5.cs" />
     <Compile Remove="03_example6.cs" />
+    <Compile Remove="03_example7.cs" />
+    <Compile Remove="03_example8.cs" />
     <Compile Remove="04_ToString.cs" />
     <Compile Remove="05_equals1.cs" />
     <Compile Remove="05_equals2.cs" />
@@ -52,6 +54,8 @@
     <None Include="03_example3.cs" />
     <None Include="03_example4.cs" />
     <None Include="03_example5.cs" />
+    <None Include="03_example8.cs" />
+    <None Include="03_example7.cs" />
     <None Include="03_example6.cs" />
     <None Include="04_ToString.cs" />
     <None Include="05_equals1.cs" />
