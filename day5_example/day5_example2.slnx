@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CodeOnly/CodeOnly.csproj" Id="a81ebb01-2441-4ef4-b28f-028f78b99a32" />
+  <Project Path="Sample1/Sample1.csproj" Id="afea6f91-6f0f-4733-a688-31bf144bb464" />
+  <Project Path="Sample3/Sample3.csproj" Id="b1915141-f412-4385-accc-d4ead1280aa5" />
+  <Project Path="Sample4/Sample4.csproj" Id="c8eb337b-1256-4916-bf0d-edaf1cdb74be" />
+  <Project Path="WPFSample/Sample2.csproj" Id="6e1f9f1f-dc99-4538-b49b-025665fa2ee2" />
+</Solution>

@@ -1,0 +1,9 @@
+﻿Visual Studiio의 관리 단위
+
+[solution]
+    [project A]     => 실행 파일을 만드는 단위
+        [File]
+        [File]
+        [File]
+
+    [project A]     => 실행파일 2
