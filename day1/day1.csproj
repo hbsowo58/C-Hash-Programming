@@ -13,7 +13,6 @@
     <Compile Remove="00_entry1.cs" />
     <Compile Remove="00_entry2.cs" />
     <Compile Remove="00_entry3.cs" />
-    <Compile Remove="01_using1.cs" />
     <Compile Remove="01_using2.cs" />
     <Compile Remove="02_read1.cs" />
     <Compile Remove="02_read2.cs" />
@@ -48,7 +47,6 @@
     <None Include="00_entry1.cs" />
     <None Include="00_entry2.cs" />
     <None Include="00_entry3.cs" />
-    <None Include="01_using1.cs" />
     <None Include="01_using2.cs" />
     <None Include="02_read1.cs" />
     <None Include="02_read2.cs" />
@@ -75,8 +73,6 @@
     <None Include="08_oop1.cs" />
     <None Include="08_oop2.cs" />
     <None Include="08_oop3.cs" />
-    <None Include="hello.cs" />
-    <None Include="Program.cs" />
   </ItemGroup>
 
 </Project>
