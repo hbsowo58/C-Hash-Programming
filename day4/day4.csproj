@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="00_this1.cs" />
+    <Compile Remove="00_this2.cs" />
+    <Compile Remove="00_this3.cs" />
     <Compile Remove="01_protected.cs" />
     <Compile Remove="02_nullable1.cs" />
     <Compile Remove="02_nullable2.cs" />
@@ -29,6 +32,7 @@
     <Compile Remove="07_delegate2.cs" />
     <Compile Remove="07_delegate3.cs" />
     <Compile Remove="07_delegate4.cs" />
+    <Compile Remove="07_delegate5.cs" />
     <Compile Remove="08_delegate_method1.cs" />
     <Compile Remove="08_delegate_method2-2.cs" />
     <Compile Remove="08_delegate_method2.cs" />
@@ -45,6 +49,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="00_this1.cs" />
+    <None Include="00_this2.cs" />
+    <None Include="00_this3.cs" />
     <None Include="01_protected.cs" />
     <None Include="02_nullable1.cs" />
     <None Include="02_nullable2.cs" />
@@ -66,6 +73,7 @@
     <None Include="07_delegate2.cs" />
     <None Include="07_delegate3.cs" />
     <None Include="07_delegate4.cs" />
+    <None Include="07_delegate5.cs" />
     <None Include="08_delegate_method1.cs" />
     <None Include="08_delegate_method2-2.cs" />
     <None Include="08_delegate_method2_1.cs" />
