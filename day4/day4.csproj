@@ -8,19 +8,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="00_this1.cs" />
+    <Compile Remove="00_this2.cs" />
+    <Compile Remove="00_this3.cs" />
     <Compile Remove="01_protected.cs" />
     <Compile Remove="02_nullable1.cs" />
     <Compile Remove="02_nullable2.cs" />
     <Compile Remove="02_nullable3.cs" />
     <Compile Remove="02_nullable4.cs" />
     <Compile Remove="02_nullable5.cs" />
+    <Compile Remove="02_nullable6.cs" />
     <Compile Remove="03_object1.cs" />
     <Compile Remove="03_object2.cs" />
+    <Compile Remove="03_object3.cs" />
     <Compile Remove="04_ToString.cs" />
     <Compile Remove="05_equals1.cs" />
     <Compile Remove="05_equals2.cs" />
     <Compile Remove="05_equals3.cs" />
     <Compile Remove="05_equals4.cs" />
+    <Compile Remove="05_equals5.cs" />
     <Compile Remove="06_interface1.cs" />
     <Compile Remove="06_interface2.cs" />
     <Compile Remove="06_interface3.cs" />
@@ -29,6 +35,7 @@
     <Compile Remove="07_delegate2.cs" />
     <Compile Remove="07_delegate3.cs" />
     <Compile Remove="07_delegate4.cs" />
+    <Compile Remove="07_delegate5.cs" />
     <Compile Remove="08_delegate_method1.cs" />
     <Compile Remove="08_delegate_method2-2.cs" />
     <Compile Remove="08_delegate_method2.cs" />
@@ -45,18 +52,24 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="00_this1.cs" />
+    <None Include="00_this2.cs" />
+    <None Include="00_this3.cs" />
     <None Include="01_protected.cs" />
     <None Include="02_nullable1.cs" />
     <None Include="02_nullable2.cs" />
     <None Include="02_nullable3.cs" />
     <None Include="02_nullable4.cs" />
     <None Include="02_nullable5.cs" />
+    <None Include="02_nullable6.cs" />
     <None Include="03_object1.cs" />
     <None Include="03_object2.cs" />
+    <None Include="03_object3.cs" />
     <None Include="04_ToString.cs" />
     <None Include="05_equals1.cs" />
     <None Include="05_equals2.cs" />
     <None Include="05_equals3.cs" />
+    <None Include="05_equals5.cs" />
     <None Include="05_equals4.cs" />
     <None Include="06_interface1.cs" />
     <None Include="06_interface2.cs" />
@@ -66,6 +79,7 @@
     <None Include="07_delegate2.cs" />
     <None Include="07_delegate3.cs" />
     <None Include="07_delegate4.cs" />
+    <None Include="07_delegate5.cs" />
     <None Include="08_delegate_method1.cs" />
     <None Include="08_delegate_method2-2.cs" />
     <None Include="08_delegate_method2_1.cs" />

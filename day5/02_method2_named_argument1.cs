@@ -1,4 +1,6 @@
 ﻿
+
+
 class Rect
 {
     public void Set(int x, int y, int width, int height) { }
