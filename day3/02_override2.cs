@@ -1,5 +1,9 @@
 ﻿using static System.Console;
 
+// 다형성
+// : 같은 변수(부모)로 다른 행동(자식들)을 함
+//      같은 종이면서 형태가 다양하게 나타나는 현상
+//      예를들어, 천둥오리의 외양이 암수에 따라 다른 것 
 class Animal
 {
     public void Cry() { WriteLine("1. Animal Cry"); }

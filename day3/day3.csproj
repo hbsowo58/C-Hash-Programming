@@ -42,6 +42,8 @@
     <Compile Remove="09_event1.cs" />
     <Compile Remove="09_event2.cs" />
     <Compile Remove="09_event3.cs" />
+    <Compile Remove="0_upcasting1.cs" />
+    <Compile Remove="0_upcasting2.cs" />
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
@@ -80,6 +82,8 @@
     <None Include="09_event1.cs" />
     <None Include="09_event2.cs" />
     <None Include="09_event3.cs" />
+    <None Include="0_upcasting1.cs" />
+    <None Include="0_upcasting2.cs" />
     <None Include="Program.cs" />
   </ItemGroup>
 
